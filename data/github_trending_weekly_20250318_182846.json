@@ -1,0 +1,103 @@
+{
+  "timestamp": "2025-03-18T18:28:46.558410",
+  "time_range": "weekly",
+  "count": 12,
+  "repositories": [
+    {
+      "name": "browser-use /browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "Make websites accessible for AI agents",
+      "language": "Python",
+      "stars": "45595",
+      "stars_today": "6,318 stars this week"
+    },
+    {
+      "name": "punkpeye /awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "language": "Unknown",
+      "stars": "11189",
+      "stars_today": "4,140 stars this week"
+    },
+    {
+      "name": "camel-ai /camel",
+      "url": "https://github.com/camel-ai/camel",
+      "description": "🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework.https://www.camel-ai.org",
+      "language": "Python",
+      "stars": "10588",
+      "stars_today": "2,158 stars this week"
+    },
+    {
+      "name": "freeCodeCamp /freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+      "language": "TypeScript",
+      "stars": "413526",
+      "stars_today": "2,387 stars this week"
+    },
+    {
+      "name": "microsoft /TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "TypeScript",
+      "stars": "103515",
+      "stars_today": "1,027 stars this week"
+    },
+    {
+      "name": "clockworklabs /SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Multiplayer at the speed of light",
+      "language": "Rust",
+      "stars": "10425",
+      "stars_today": "2,213 stars this week"
+    },
+    {
+      "name": "thalissonvs /pydoll",
+      "url": "https://github.com/thalissonvs/pydoll",
+      "description": "Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping.",
+      "language": "Python",
+      "stars": "2786",
+      "stars_today": "1,965 stars this week"
+    },
+    {
+      "name": "PatrickJS /awesome-cursorrules",
+      "url": "https://github.com/PatrickJS/awesome-cursorrules",
+      "description": "📄 A curated list of awesome .cursorrules files",
+      "language": "Unknown",
+      "stars": "16427",
+      "stars_today": "3,181 stars this week"
+    },
+    {
+      "name": "CodePhiliaX /Chat2DB",
+      "url": "https://github.com/CodePhiliaX/Chat2DB",
+      "description": "🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "stars": "20979",
+      "stars_today": "1,257 stars this week"
+    },
+    {
+      "name": "BerriAI /litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+      "language": "Python",
+      "stars": "19269",
+      "stars_today": "579 stars this week"
+    },
+    {
+      "name": "huggingface /lerobot",
+      "url": "https://github.com/huggingface/lerobot",
+      "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+      "language": "Python",
+      "stars": "10384",
+      "stars_today": "714 stars this week"
+    },
+    {
+      "name": "patchy631 /ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "stars": "5381",
+      "stars_today": "807 stars this week"
+    }
+  ]
+}

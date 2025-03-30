@@ -1,0 +1,127 @@
+{
+  "timestamp": "2025-03-18T18:28:40.578972",
+  "time_range": "daily",
+  "count": 15,
+  "repositories": [
+    {
+      "name": "glanceapp /glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "17844",
+      "stars_today": "2,029"
+    },
+    {
+      "name": "langchain-ai /ollama-deep-researcher",
+      "url": "https://github.com/langchain-ai/ollama-deep-researcher",
+      "description": "Fully local web research and report writing assistant",
+      "language": "Python",
+      "stars": "4869",
+      "stars_today": "454"
+    },
+    {
+      "name": "nvim-lua /kickstart.nvim",
+      "url": "https://github.com/nvim-lua/kickstart.nvim",
+      "description": "A launch point for your personal nvim configuration",
+      "language": "Lua",
+      "stars": "22835",
+      "stars_today": "148"
+    },
+    {
+      "name": "microsoft /RD-Agent",
+      "url": "https://github.com/microsoft/RD-Agent",
+      "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.",
+      "language": "Python",
+      "stars": "3218",
+      "stars_today": "169"
+    },
+    {
+      "name": "yuruotong1 /autoMate",
+      "url": "https://github.com/yuruotong1/autoMate",
+      "description": "Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves",
+      "language": "Python",
+      "stars": "2513",
+      "stars_today": "103"
+    },
+    {
+      "name": "calcom /cal.com",
+      "url": "https://github.com/calcom/cal.com",
+      "description": "Scheduling infrastructure for absolutely everyone.",
+      "language": "TypeScript",
+      "stars": "35111",
+      "stars_today": "382"
+    },
+    {
+      "name": "yuaotian /go-cursor-help",
+      "url": "https://github.com/yuaotian/go-cursor-help",
+      "description": "解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+      "language": "Shell",
+      "stars": "15143",
+      "stars_today": "415"
+    },
+    {
+      "name": "patchy631 /ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "stars": "5381",
+      "stars_today": "321"
+    },
+    {
+      "name": "RIP-Comm /sossoldi",
+      "url": "https://github.com/RIP-Comm/sossoldi",
+      "description": "\"Sossoldi\" is a wealth management / personal finance / Net Worth tracking app, made with Flutter.",
+      "language": "Dart",
+      "stars": "1016",
+      "stars_today": "257"
+    },
+    {
+      "name": "xpipe-io /xpipe",
+      "url": "https://github.com/xpipe-io/xpipe",
+      "description": "Access your entire server infrastructure from your local desktop",
+      "language": "Java",
+      "stars": "9403",
+      "stars_today": "670"
+    },
+    {
+      "name": "DiceDB /dice",
+      "url": "https://github.com/DiceDB/dice",
+      "description": "DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.",
+      "language": "Go",
+      "stars": "8770",
+      "stars_today": "601"
+    },
+    {
+      "name": "tj-actions /changed-files",
+      "url": "https://github.com/tj-actions/changed-files",
+      "description": "Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.",
+      "language": "TypeScript",
+      "stars": "2241",
+      "stars_today": "131"
+    },
+    {
+      "name": "donnemartin /system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "stars": "292906",
+      "stars_today": "509"
+    },
+    {
+      "name": "uutils /coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "stars": "19275",
+      "stars_today": "222"
+    },
+    {
+      "name": "OpenBB-finance /OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Investment Research for Everyone, Everywhere.",
+      "language": "Python",
+      "stars": "37437",
+      "stars_today": "119"
+    }
+  ]
+}

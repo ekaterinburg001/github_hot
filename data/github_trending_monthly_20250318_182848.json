@@ -1,0 +1,159 @@
+{
+  "timestamp": "2025-03-18T18:28:48.836466",
+  "time_range": "monthly",
+  "count": 19,
+  "repositories": [
+    {
+      "name": "microsoft /OmniParser",
+      "url": "https://github.com/microsoft/OmniParser",
+      "description": "A simple screen parsing tool towards pure vision based GUI agent",
+      "language": "Jupyter Notebook",
+      "stars": "20659",
+      "stars_today": "11,140 stars this month"
+    },
+    {
+      "name": "geekan /MetaGPT",
+      "url": "https://github.com/geekan/MetaGPT",
+      "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+      "language": "Python",
+      "stars": "52784",
+      "stars_today": "6,558 stars this month"
+    },
+    {
+      "name": "langgenius /dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+      "language": "TypeScript",
+      "stars": "83245",
+      "stars_today": "14,881 stars this month"
+    },
+    {
+      "name": "LadybirdBrowser /ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": "35986",
+      "stars_today": "8,026 stars this month"
+    },
+    {
+      "name": "jingyaogong /minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+      "language": "Python",
+      "stars": "16349",
+      "stars_today": "6,964 stars this month"
+    },
+    {
+      "name": "sinaptik-ai /pandas-ai",
+      "url": "https://github.com/sinaptik-ai/pandas-ai",
+      "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+      "language": "Python",
+      "stars": "18152",
+      "stars_today": "3,685 stars this month"
+    },
+    {
+      "name": "codecrafters-io /build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": "359240",
+      "stars_today": "23,920 stars this month"
+    },
+    {
+      "name": "78 /xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "Build your own AI friend",
+      "language": "C++",
+      "stars": "9173",
+      "stars_today": "4,078 stars this month"
+    },
+    {
+      "name": "docmost /docmost",
+      "url": "https://github.com/docmost/docmost",
+      "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+      "language": "TypeScript",
+      "stars": "12542",
+      "stars_today": "3,887 stars this month"
+    },
+    {
+      "name": "virattt /ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": "17978",
+      "stars_today": "9,229 stars this month"
+    },
+    {
+      "name": "n8n-io /n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": "68147",
+      "stars_today": "7,060 stars this month"
+    },
+    {
+      "name": "FreeTubeApp /FreeTube",
+      "url": "https://github.com/FreeTubeApp/FreeTube",
+      "description": "An Open Source YouTube app for privacy",
+      "language": "JavaScript",
+      "stars": "17028",
+      "stars_today": "2,772 stars this month"
+    },
+    {
+      "name": "harry0703 /MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": "25464",
+      "stars_today": "3,520 stars this month"
+    },
+    {
+      "name": "gorhill /uBlock",
+      "url": "https://github.com/gorhill/uBlock",
+      "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+      "language": "JavaScript",
+      "stars": "51693",
+      "stars_today": "2,126 stars this month"
+    },
+    {
+      "name": "infiniflow /ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+      "language": "TypeScript",
+      "stars": "45397",
+      "stars_today": "8,591 stars this month"
+    },
+    {
+      "name": "NirDiamant /GenAI_Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+      "language": "Jupyter Notebook",
+      "stars": "9117",
+      "stars_today": "3,091 stars this month"
+    },
+    {
+      "name": "KRTirtho /spotube",
+      "url": "https://github.com/KRTirtho/spotube",
+      "description": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
+      "language": "Dart",
+      "stars": "38380",
+      "stars_today": "3,340 stars this month"
+    },
+    {
+      "name": "glanceapp /glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
+      "language": "Go",
+      "stars": "17845",
+      "stars_today": "5,763 stars this month"
+    },
+    {
+      "name": "hiyouga /LLaMA-Factory",
+      "url": "https://github.com/hiyouga/LLaMA-Factory",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "language": "Python",
+      "stars": "44592",
+      "stars_today": "3,894 stars this month"
+    }
+  ]
+}
